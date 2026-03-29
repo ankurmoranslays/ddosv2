@@ -4,8 +4,8 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from datetime import datetime
 
 # ==================== CONFIG (BHARIEN) ====================
-TELEGRAM_TOKEN = "YOUR_BOT_TOKEN" 
-OWNER_ID = 0000000 # Apni Numeric ID Daalein
+TELEGRAM_TOKEN = "8597325809:AAFmlPPZzbsfMGXLORlcHhGMzeUc3rCmOZk" 
+OWNER_ID = [ 6983649791, 6049120581 ] # Apni Numeric ID Daalein
 # ==========================================================
 
 # Database Files
@@ -19,7 +19,7 @@ vps_servers, approved_users, generated_keys, resellers = [], {}, {}, []
 BANNER = """
           ⚔️ 𝗣𝗥𝗜𝗠𝗘𝗫𝗔𝗥𝗠𝗬 ⚔️
      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-     👑 OWNER : @PRIME_X_ARMY
+     👑 OWNER : @Ankurslys 
      📡 TYPE  : MASTER-V6-RAILWAY
      🚀 POWER : MULTI-VPS LINKED
      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
