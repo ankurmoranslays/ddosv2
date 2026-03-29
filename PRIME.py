@@ -5,7 +5,7 @@ from datetime import datetime
 
 # ==================== CONFIG (BHARIEN) ====================
 TELEGRAM_TOKEN = "8597325809:AAFmlPPZzbsfMGXLORlcHhGMzeUc3rCmOZk" 
-OWNER_ID = [ 6983649791, 6049120581 ] # Apni Numeric ID Daalein
+OWNER_ID = ["6983649791,6049120581"] # Apni Numeric ID Daalein
 # ==========================================================
 
 # Database Files
