@@ -1,0 +1,4 @@
+sudo apt update && sudo apt install g++ -y
+g++ -O3 prime.cpp -o PRIME -pthread
+chmod +x PRIME
+scp PRIME root@YOUR_OTHER_VPS_IP:/root/
